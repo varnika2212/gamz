@@ -1,0 +1,26 @@
+body{
+  background-color: #264653;
+}
+
+.j {
+  font-size: 50px;
+  padding: 5rem 2rem;
+  margin-bottom: 2rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  background-color: #e9c46a;
+  border-radius: .3rem;
+}
+.btn-primary{
+  border-radius: 5px;
+  font-size: 20px;
+}
+
+td{
+  height: 80px;
+  width: 80px;
+  text-align: center;
+  font-size: 100px;
+  background-color: #c9e4ca;
+  border-radius: 40px;
+}
